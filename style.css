@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+button{
+    cursor: pointer;
+}
+
 #theory-wrap-cont,
 #two-member-wrap,
 .training-solution {
